@@ -49,5 +49,3 @@ class Validate
   end
 end
 
-CreditCard.new(222_222_222_224).valid?
-CreditCard.new(222_222_222_222).valid?
